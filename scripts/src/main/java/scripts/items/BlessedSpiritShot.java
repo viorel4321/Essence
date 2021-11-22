@@ -22,7 +22,7 @@ public class BlessedSpiritShot implements IItemHandler, ScriptFile
     };
     private static final short[] _skillIds =
     {
-        2061, 2160, 2161, 2162, 2163, 2164, 2164, 2164
+        2061, 2160, 2161, 2162, 2163, 2164, 2164, 21633
     };
 
     public void useItem(Playable playable, L2ItemInstance item)
